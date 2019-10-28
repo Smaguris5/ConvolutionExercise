@@ -1,0 +1,14 @@
+C:\Users\Smaguris\Desktop\AIProject\AIProject\AIProject\bin\Debug\AIProject.exe.config
+C:\Users\Smaguris\Desktop\AIProject\AIProject\AIProject\bin\Debug\AIProject.exe
+C:\Users\Smaguris\Desktop\AIProject\AIProject\AIProject\bin\Debug\AIProject.pdb
+C:\Users\Smaguris\Desktop\AIProject\AIProject\AIProject\obj\Debug\AIProject.csprojAssemblyReference.cache
+C:\Users\Smaguris\Desktop\AIProject\AIProject\AIProject\obj\Debug\AIProject.csproj.CoreCompileInputs.cache
+C:\Users\Smaguris\Desktop\AIProject\AIProject\AIProject\obj\Debug\AIProject.exe
+C:\Users\Smaguris\Desktop\AIProject\AIProject\AIProject\obj\Debug\AIProject.pdb
+C:\Programming\AIProject\AIProject\bin\Debug\AIProject.exe.config
+C:\Programming\AIProject\AIProject\bin\Debug\AIProject.exe
+C:\Programming\AIProject\AIProject\bin\Debug\AIProject.pdb
+C:\Programming\AIProject\AIProject\obj\Debug\AIProject.csprojAssemblyReference.cache
+C:\Programming\AIProject\AIProject\obj\Debug\AIProject.csproj.CoreCompileInputs.cache
+C:\Programming\AIProject\AIProject\obj\Debug\AIProject.exe
+C:\Programming\AIProject\AIProject\obj\Debug\AIProject.pdb
